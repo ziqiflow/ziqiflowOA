@@ -104,7 +104,10 @@
 
 为尊重劳动者成功，最新版的源代码是有条件开放的。
 
-[历史源码地址可参考](https://github.com/ziqiflow/oaflow2019.git)
+
+历史版本可参考
+- [php端](https://github.com/ziqiflow/ziqiphp2020)
+- [vue前端](https://github.com/ziqiflow/ziqivue2020)
 
 
 
